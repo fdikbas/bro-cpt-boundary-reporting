@@ -1,0 +1,4 @@
+method,n_values,mean_boundaries_per_cpt,median_boundaries_per_cpt,min_boundaries_per_cpt,max_boundaries_per_cpt
+Scale-aware,35,5.371428571428571,5.0,1.0,10.0
+Single-scale,35,8.4,8.0,2.0,19.0
+PELT,35,48.628571428571426,41.0,11.0,131.0

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and archived software release."
+title: "Scale-aware CPT boundary reporting with uncertainty bands"
+authors:
+  - family-names: "Dikbaş"
+    given-names: "Fatih"
+version: "1.0.0"
+date-released: "2026-06-11"
+repository-code: "https://github.com/fdikbas/bro-cpt-boundary-reporting"
+license: "MIT"

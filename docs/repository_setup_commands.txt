@@ -1,0 +1,21 @@
+# Suggested GitHub setup commands
+
+# Run these commands from inside the generated release folder.
+
+git init
+git add .
+git commit -m "Initial reproducibility release for BRO CPT boundary reporting"
+
+git branch -M main
+git remote add origin https://github.com/fdikbas/bro-cpt-boundary-reporting.git
+git push -u origin main
+
+# Optional: create a version tag after checking the pushed repository.
+git tag v1.0.0
+git push origin v1.0.0
+
+# After tagging, archive the release on Zenodo and add the DOI to:
+# - README.md
+# - CITATION.cff
+# - MANUSCRIPT_DECLARATIONS.md
+# - the manuscript Code availability statement

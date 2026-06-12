@@ -1,0 +1,14 @@
+Do not upload raw BRO CPT/CPTu data to a public repository unless the original data license and redistribution terms explicitly permit this.
+
+Recommended public sharing:
+- code
+- README and documentation
+- environment files
+- small derived result tables where redistribution is permitted
+- final figures
+- manifests and captions
+
+Recommended non-public/local only:
+- raw GeoPackage or bulk CPT/CPTu data downloads
+- large caches
+- temporary/interim processing files

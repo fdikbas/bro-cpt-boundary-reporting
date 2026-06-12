@@ -1,0 +1,7 @@
+﻿kind,source_label,note
+optional_not_included,BRO_CPT_Paper1_BoundaryConfidence_Pipeline_v1_5.py,Optional legacy/intermediate file not required for the final public release.
+optional_not_included,preparation_summary.csv,Optional intermediate file not required for the final public release.
+optional_not_included,feature_selection.csv,Optional intermediate file not required for the final public release.
+optional_not_included,missingness_summary.csv,Optional intermediate file not required for the final public release.
+optional_not_included,baseline_counts_by_cpt.csv,Optional alternative baseline file not required for the final public release.
+optional_not_included,boundary_counts_by_cpt.csv,Optional intermediate file not required for the final public release.
